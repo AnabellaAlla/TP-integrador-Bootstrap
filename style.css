@@ -1,0 +1,69 @@
+
+.navbar-brand {
+    color: white;
+    left: 80%;
+}
+
+.navbar {
+    color: aliceblue;
+    text-align-last: right;
+}
+
+.logo {
+    height: 50px;
+    margin-left: 50px;
+    margin-right: 20px;
+}
+
+
+.nav-item5 {
+    color: green;
+}
+
+/* imagen */
+.header {
+    background-image: url(./ba111d.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 800px;
+   
+}
+
+/* card */
+.conoceALos {
+    padding-top: 20px;
+    text-align: center ;
+}
+.oradoresTitulo {
+
+    text-align: center ;
+}
+.card-group {
+    padding-bottom: 50px;
+    padding-left: 20%;
+    padding-right: 20% ;
+    size-adjust: 20px;
+    box-sizing: content-box;
+    
+}
+.card-img-top {
+    height: 100%;
+}
+
+/* foto y texto*/
+.clearfix {
+    color: white;
+    background-color: rgba(40, 39, 39, 0.91);
+}
+
+.orador {
+    font-size: xx-large;
+}
+
+.header2 {
+    background-color: darkslategrey;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding: auto;
+
+}
